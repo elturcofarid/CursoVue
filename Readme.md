@@ -12,3 +12,8 @@ Tareas
     - npm run serve
     revisar en servidor
     - http://localhost:8080/
+
+
+
+Estudien estos terminos.
+https://bluuweb.github.io/javascript/fundamentos/#destructuring-objects
